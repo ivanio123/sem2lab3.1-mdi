@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Lab3_OOP_FirstPart.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Study\OOP_labs\Second Semester\Lab3_OOP_FirstPart\.idea\.idea.Lab3_OOP_FirstPart\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
